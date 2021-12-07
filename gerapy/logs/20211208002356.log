@@ -1,0 +1,2 @@
+INFO - 2021-12-08 00:23:58,902 - process: 12564 - scheduler.py - gerapy.server.core.scheduler - 102 - scheduler - successfully synced task with jobs with force
+INFO - 2021-12-08 00:52:51,899 - process: 12564 - build.py - gerapy.server.core.build - 24 - build - successfully build project ddang_spider to egg file D:\王D盘归属\都云\Reptile_练习\项目-Gerapy\gerapy\projects\ddang_spider\ddang_spider-1.0-py3.6.egg

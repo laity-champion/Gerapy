@@ -1,0 +1,14 @@
+setup.py
+ddang_spider/__init__.py
+ddang_spider/items.py
+ddang_spider/main.py
+ddang_spider/middlewares.py
+ddang_spider/pipelines.py
+ddang_spider/settings.py
+ddang_spider.egg-info/PKG-INFO
+ddang_spider.egg-info/SOURCES.txt
+ddang_spider.egg-info/dependency_links.txt
+ddang_spider.egg-info/entry_points.txt
+ddang_spider.egg-info/top_level.txt
+ddang_spider/spiders/__init__.py
+ddang_spider/spiders/ddw.py
